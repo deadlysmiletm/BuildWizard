@@ -1,0 +1,19 @@
+{
+    "name": "BuildWizard.ConfigSteps.OculusModule",
+    "rootNamespace": "BuildWizard",
+    "references": [
+        "GUID:ce6fd248e114c9a478e55abf2293d298",
+        "GUID:7ca78c9a94d3b6249ab4077f60693a2d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

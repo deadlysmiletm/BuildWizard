@@ -1,0 +1,20 @@
+{
+    "name": "BuildWizard",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9db395c3844bbe14296c948980ff9b04"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
